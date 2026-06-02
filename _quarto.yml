@@ -1,0 +1,34 @@
+project:
+  # TODO: Change to correct project type if using extensions
+  type: website
+
+website:
+  # TODO: Set the title of the website
+  title: ""
+  site-url: "https://dp-next.github.io/wp3-participants/"
+  repo-url: "https://github.com/dp-next/wp3-participants"
+  # TODO: Set favicon if relevant.
+  # favicon: ""
+  navbar:
+    # TODO: Add logo and logo-alt if relevant.
+    logo: ""
+    logo-alt: ""
+    pinned: true
+    left:
+      - text: "Welcome"
+        href: index.qmd
+    tools:
+      - icon: github
+        href: "https://github.com/dp-next/wp3-participants"
+        aria-label: "GitHub icon: Source repository"
+  sidebar:
+    contents:
+      - index.qmd
+
+format:
+  # TODO: Use Quarto extension if available
+  html:
+    theme:
+      # TODO: Choose a different theme if desired
+      - litera
+      - custom-styles.scss
