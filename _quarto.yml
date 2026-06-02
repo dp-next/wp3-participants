@@ -3,8 +3,8 @@ project:
   type: website
 
 website:
-  # TODO: Set the title of the website
-  title: ""
+  # TODO: translate to Greenlandic
+  title: "Jeg deltager / Eg luttaki / I'm taking part (KL) / I'm taking part"
   site-url: "https://dp-next.github.io/wp3-participants/"
   repo-url: "https://github.com/dp-next/wp3-participants"
   # TODO: Set favicon if relevant.
@@ -15,20 +15,51 @@ website:
     logo-alt: ""
     pinned: true
     left:
-      - text: "Welcome"
-        href: index.qmd
+      - text: "Participant 🇬🇧"
+        href: en/participant.qmd
+      - text: "Deltager 🇩🇰"
+        href: da/participant.qmd
+      - text: "Luttakari 🇫🇴"
+        href: fo/participant.qmd
+      - text: "Peqataasoq 🇬🇱"
+        href: kl/participant.qmd
+  sidebar:
+    - title: "Participant 🇬🇧"
+      contents:
+        - en/participant.qmd
+        - en/participant-questionnaire.qmd
+        - en/participant-clinical.qmd
+    - title: "Deltager 🇩🇰"
+      contents:
+        - da/participant.qmd
+        - da/participant-questionnaire.qmd
+        - da/participant-clinical.qmd
+    - title: "Luttakari 🇫🇴"
+      contents:
+        - fo/participant.qmd
+        - fo/participant-questionnaire.qmd
+        - fo/participant-clinical.qmd
+    - title: "Peqataasoq 🇬🇱"
+      contents:
+        - kl/participant.qmd
+        - kl/participant-questionnaire.qmd
+        - kl/participant-clinical.qmd      
+
     tools:
       - icon: github
         href: "https://github.com/dp-next/wp3-participants"
         aria-label: "GitHub icon: Source repository"
-  sidebar:
-    contents:
-      - index.qmd
+
+  contents:
+    - index.qmd
 
 format:
-  # TODO: Use Quarto extension if available
-  html:
-    theme:
-      # TODO: Choose a different theme if desired
-      - litera
-      - custom-styles.scss
+  html
+
+#bibliography: references.bib
+#csl: vancouver.csl
+
+editor:
+  markdown:
+    wrap: 72
+    canonical: true
