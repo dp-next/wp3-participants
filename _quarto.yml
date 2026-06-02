@@ -10,9 +10,6 @@ website:
   # TODO: Set favicon if relevant.
   # favicon: ""
   navbar:
-    # TODO: Add logo and logo-alt if relevant.
-    logo: ""
-    logo-alt: ""
     pinned: true
     left:
       - text: "Participant 🇬🇧"
@@ -23,6 +20,9 @@ website:
         href: fo/participant.qmd
       - text: "Peqataasoq 🇬🇱"
         href: kl/participant.qmd
+    tools:
+      - icon: github
+        href: "https://github.com/dp-next/wp3-participants"
   sidebar:
     - title: "Participant 🇬🇧"
       contents:
@@ -44,11 +44,6 @@ website:
         - kl/participant.qmd
         - kl/participant-questionnaire.qmd
         - kl/participant-clinical.qmd      
-
-    tools:
-      - icon: github
-        href: "https://github.com/dp-next/wp3-participants"
-        aria-label: "GitHub icon: Source repository"
 
   contents:
     - index.qmd
