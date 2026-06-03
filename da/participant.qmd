@@ -1,8 +1,6 @@
 ---
-title: "Information til deltagere"
+title: "Hvad er DP-Next"
 ---
-
-## Hvad er DP-Next?
 
 DP-Next står for *Bæredygtig forebyggelse af type 2-diabetes i det 21.
 århundrede*. Det er et forskningsprojekt, der gennemføres i samarbejde mellem
