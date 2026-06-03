@@ -1,5 +1,5 @@
 project:
- # TODO: Change to correct project type if using extensions
+  # TODO: Change to correct project type if using extensions
   type: website
   
 website:
