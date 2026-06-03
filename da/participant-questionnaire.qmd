@@ -1,6 +1,9 @@
 ---
 title: "Spørgeskema"
 ---
+Projektet udføres af Steno Diabetes Centrene i Danmark.
+
+Det er frivilligt at deltage. Din beslutning får ingen betydning for din nuværende eller fremtidige behandling.
 
 ## Hvad indebærer spørgeskemaet?
 
@@ -10,12 +13,17 @@ tager cirka 30 minutter at udfylde spørgeskemaet.
 
 Spørgeskemaet indeholder spørgsmål om:
 
-- Dit generelle helbred og sygdomshistorie
-- Kost, motion, alkohol og rygning
-- Søvn, stress, trivsel og livskvalitet
-- Sociale og arbejdsrelaterede forhold
-- Uddannelse, arbejde og fritid
-- Familiær sygdomshistorik
+•	Baggrundsoplysninger (fx alder, uddannelse, arbejde, økonomi og familieforhold)
+•	Dit fysiske og psykiske helbred samt sygdomme i familien
+•	Alkoholvaner, rygning og kontakt med andre mennesker
+•	Humør, stress og psykisk trivsel
+•	Søvn og døgnrytme
+•	Fysisk aktivitet og bevægelse i hverdagen
+•	Hvordan du forstår og bruger sundhedsinformation
+•	Personlighed og måden du forholder dig til mad, appetit og kost
+•	Dine kost og spisevaner, søvnmønster
+
+Vi sender én påmindelse efter 7 dage, hvis du ikke har svaret. Hvis du ikke ønsker at deltage, kan du åbne linket og markere, at du ikke vil være med – så sender vi ikke flere påmindelser.
 
 ## Hvad er formålet med spørgeskemaet?
 
@@ -50,13 +58,12 @@ undersøgelser.
 Spørgeskemaet udfyldes online i et sikkert system, og du kan udfylde det
 i dit eget tempo.
 
-Dine besvarelser kan blive koblet med oplysninger fra nationale
-sundhedsregistre, såsom diagnoser og laboratoriesvar.
+Dine spørgeskemasvar vil løbende blive koblet med oplysninger fra danske sundhedsregistre (fx diagnoser, medicin og laboratorietal). Det gør vi for mere præcist at kunne undersøge sammenhængen mellem livsstil, helbred og risiko for type 2-diabetes.
 
-Alle oplysninger behandles fortroligt og i overensstemmelse med gældende
-regler for databeskyttelse. Personlige oplysninger opbevares sikkert og
-adskilt fra forskningsdata, og resultater offentliggøres altid anonymt,
-så ingen kan genkendes.
+•	Dine oplysninger behandles fortroligt og efter gældende databeskyttelsesregler.
+•	Personfølsomme oplysninger opbevares sikkert og adskilt fra forskningsdata.
+•	Når vi offentliggør resultater, sker det i fuldt anonymiseret form, så enkeltpersoner ikke kan genkendes.
+•	Se mere om behandling af dine personoplysninger i vedlagte oplysningsskema.
 
 Du kan læse mere om dine rettigheder some deltager i sundhedvidenskabelig
 forskning
