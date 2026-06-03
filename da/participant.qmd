@@ -28,9 +28,6 @@ forebyggelsesindsatser.
 - **[Klinisk undersøgelse](/da/participant-clinical.qmd)** Giver et overblik
   over de kliniske undersøgelser
 
-
---------------------------------------------------------------------------------
-
 ## Frivillig deltagelse og databeskyttelse
 
 Deltagelse i DP-Next er frivillig. Du kan til enhver tid trække dit samtykke
@@ -41,11 +38,15 @@ Alle oplysninger behandles fortroligt og opbevares sikkert. Forskningsresultater
 vil kun blive offentliggjort i anonymiseret form, og enkeltpersoner vil ikke
 kunne identificeres.
 
---------------------------------------------------------------------------------
-
 ## Kontakt og yderligere information
 
 Hvis du har spørgsmål eller ønsker mere information, er du velkommen til at
 kontakte projektgruppen.
 
 Du kan også læse mere om projektet på DP-Nexts hjemmeside.
+
+## Læs mere
+
+Du kan læse mere om projektet (på engelsk) på [DP-Next hjemmesiden](https://dp-next.github.io/).
+
+Du kan også lytte til en podcast om projektet (på dansk): [Forskere vil forsinke udvikling af type 2-diabetes: (2026) Host: Diabetesforskerne](https://open.spotify.com/episode/3WmBVyNdqTDAMZ4KLPJDZF?si=_mKZYWQFQkKbLufQy-ELSg)
