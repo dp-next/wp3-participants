@@ -12,15 +12,14 @@ kan have betydning for risikoen for at udvikle type 2-diabetes.
 
 Spørgeskemaet indeholder spørgsmål om:
 
-•	Baggrundsoplysninger (fx alder, uddannelse, arbejde, økonomi og familieforhold)
-•	Dit fysiske og psykiske helbred samt sygdomme i familien
-•	Alkoholvaner, rygning og kontakt med andre mennesker
-•	Humør, stress og psykisk trivsel
-•	Søvn og døgnrytme
-•	Fysisk aktivitet og bevægelse i hverdagen
-•	Hvordan du forstår og bruger sundhedsinformation
-•	Personlighed og måden du forholder dig til mad, appetit og kost
-•	Dine kost og spisevaner, søvnmønster
+- Baggrundsoplysninger (fx alder, uddannelse, arbejde, økonomi og familieforhold)
+- Dit fysiske og psykiske helbred samt sygdomme i familien
+- Alkoholvaner, rygning og kontakt med andre mennesker
+- Humør, stress og psykisk trivsel
+- Fysisk aktivitet og bevægelse i hverdagen
+- Hvordan du forstår og bruger sundhedsinformation
+- Personlighed og måden du forholder dig til mad, appetit og kost
+- Kost, spisevaner og søvnmønster
 
 Vi sender én påmindelse efter 7 dage, hvis du ikke har svaret. Hvis du ikke ønsker at deltage, kan du åbne linket og markere, at du ikke vil være med – så sender vi ikke flere påmindelser.
 
@@ -59,10 +58,10 @@ i dit eget tempo.
 
 Dine spørgeskemasvar vil løbende blive koblet med oplysninger fra danske sundhedsregistre (fx diagnoser, medicin og laboratorietal). Det gør vi for mere præcist at kunne undersøge sammenhængen mellem livsstil, helbred og risiko for type 2-diabetes.
 
-•	Dine oplysninger behandles fortroligt og efter gældende databeskyttelsesregler.
-•	Personfølsomme oplysninger opbevares sikkert og adskilt fra forskningsdata.
-•	Når vi offentliggør resultater, sker det i fuldt anonymiseret form, så enkeltpersoner ikke kan genkendes.
-•	Se mere om behandling af dine personoplysninger i vedlagte oplysningsskema.
+- Dine oplysninger behandles fortroligt og efter gældende databeskyttelsesregler.
+- Personfølsomme oplysninger opbevares sikkert og adskilt fra forskningsdata.
+- Når vi offentliggør resultater, sker det i fuldt anonymiseret form, så enkeltpersoner ikke kan genkendes.
+- Se mere om behandling af dine personoplysninger i vedlagte oplysningsskema.
 
 Du kan læse mere om dine rettigheder some deltager i sundhedvidenskabelig
 forskning
@@ -72,6 +71,6 @@ forskning
 
 Det kan opleves som lidt tidskrævende at besvare spørgeskemaet (deltagere har i gennemsnit brugt ca. 30 minutter på at svare på alle spørgsmål).
 Din deltagelse i undersøgelsen er med til at:
-•	give bedre viden om, hvem der har størst risiko for type 2-diabetes
-•	udvikle og målrette fremtidige tilbud om undersøgelse og forebyggelse af type-2 diabetes
+- Give bedre viden om, hvem der har størst risiko for type 2-diabetes
+- Udvikle og målrette fremtidige tilbud om undersøgelse og forebyggelse af type-2 diabetes
 
