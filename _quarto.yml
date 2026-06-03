@@ -53,6 +53,10 @@ website:
           href: kl/participant-clinical.qmd
 format:
   html
+
+#bibliography: references.bib
+#csl: vancouver.csl
+
 editor:
   markdown:
     wrap: 72
