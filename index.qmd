@@ -1,18 +1,7 @@
 ---
 title: "DP-Next"
 ---
-
-
-## Tak for at du deltager i DP-Next
-
-
-## Takk fyri at tit luttóku í DP-Next
-
-
-## Thank you for participating in DP-Next (KL)
-
-
-## Thank you for participating in DP-Next
+![](images/dp-next-logo.png)
 
 The DP-Next project aims to develop the NEXT generation of Diabetes Prevention strategies for Denmark, Greenland and the Faroe Islands. It is a collaboration between all 7 Steno Diabetes Centers. This page provides information for people who have been asked to participate by [completing a questionnaire](en/participant-questionnaire.qmd) or by attending a [clinical examination](en/participant-clinical.qmd).
 
