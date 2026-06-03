@@ -63,7 +63,7 @@ Dine spørgeskemasvar vil løbende blive koblet med oplysninger fra danske sundh
 - Når vi offentliggør resultater, sker det i fuldt anonymiseret form, så enkeltpersoner ikke kan genkendes.
 - Se mere om behandling af dine personoplysninger i vedlagte oplysningsskema.
 
-Du kan læse mere om dine rettigheder some deltager i sundhedvidenskabelig
+Du kan læse mere om dine rettigheder som deltager i sundhedvidenskabelig
 forskning
 [her](https://www.videnskabsetik.dk/deltagelse-i-kliniske-forsoeg/dine-rettigheder-som-forsoegsperson)
 
