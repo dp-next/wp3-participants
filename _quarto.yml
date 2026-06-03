@@ -29,7 +29,7 @@ website:
           href: en/participant-clinical.qmd
     - title: "Dansk 🇩🇰"
       contents:
-        - text: "Information til deltagere"
+        - text: "Hvad er DP-Next?"
           href: da/participant.qmd
         - text: "Spørgeskema"
           href: da/participant-questionnaire.qmd
