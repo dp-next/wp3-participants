@@ -4,7 +4,7 @@ project:
 
 website:
   # TODO: translate to Greenlandic
-  title: "Jeg deltager / Eg luttaki / I'm taking part (KL) / I'm taking part"
+  title: "DP-Next"
   site-url: "https://dp-next.github.io/wp3-participants/"
   repo-url: "https://github.com/dp-next/wp3-participants"
   # TODO: Set favicon if relevant.
@@ -12,42 +12,50 @@ website:
   navbar:
     pinned: true
     left:
-      - text: "Participant 🇬🇧"
-        href: en/participant.qmd
-      - text: "Deltager 🇩🇰"
+      - text: "Dansk 🇩🇰"
         href: da/participant.qmd
-      - text: "Luttakari 🇫🇴"
+      - text: "Føroyskt 🇫🇴"
         href: fo/participant.qmd
-      - text: "Peqataasoq 🇬🇱"
+      - text: "Kalaallisut 🇬🇱"
         href: kl/participant.qmd
+      - text: "English 🇬🇧"
+        href: en/participant.qmd
     tools:
       - icon: github
         href: "https://github.com/dp-next/wp3-participants"
   sidebar:
-    - title: "Participant 🇬🇧"
+    - title: "English 🇬🇧"
       contents:
-        - en/participant.qmd
-        - en/participant-questionnaire.qmd
-        - en/participant-clinical.qmd
-    - title: "Deltager 🇩🇰"
+        - text: "Information for participants"
+          href: en/participant.qmd
+        - text: "Questionnaire"
+          href: en/participant-questionnaire.qmd
+        - text: "Clinical examination"
+          href: en/participant-clinical.qmd
+    - title: "Dansk 🇩🇰"
       contents:
-        - da/participant.qmd
-        - da/participant-questionnaire.qmd
-        - da/participant-clinical.qmd
-    - title: "Luttakari 🇫🇴"
+        - text: "Hvad er DP-Next?"
+          href: da/participant.qmd
+        - text: "Spørgeskema"
+          href: da/participant-questionnaire.qmd
+        - text: "Klinisk undersøgelse"
+          href: da/participant-clinical.qmd
+    - title: "Føroyskt 🇫🇴"
       contents:
-        - fo/participant.qmd
-        - fo/participant-questionnaire.qmd
-        - fo/participant-clinical.qmd
-    - title: "Peqataasoq 🇬🇱"
+        - text: "Frágreiðing til luttakarar"
+          href: fo/participant.qmd
+        - text: "Spurningarlisti"
+          href: fo/participant-questionnaire.qmd
+        - text: "Klinisk kanningin"
+          href: fo/participant-clinical.qmd
+    - title: "Kalaallisut 🇬🇱"
       contents:
-        - kl/participant.qmd
-        - kl/participant-questionnaire.qmd
-        - kl/participant-clinical.qmd      
-
-  contents:
-    - index.qmd
-
+        - text: "Nalunaarut peqataasumut"
+          href: kl/participant.qmd
+        - text: "Nalunaarusiaq"
+          href: kl/participant-questionnaire.qmd
+        - text: "Nakorsarineq"
+          href: kl/participant-clinical.qmd
 format:
   html
 
