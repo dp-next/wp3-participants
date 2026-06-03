@@ -12,14 +12,14 @@ website:
   navbar:
     pinned: true
     left:
-      - text: "English 🇬🇧"
-        href: en/participant.qmd
       - text: "Dansk 🇩🇰"
         href: da/participant.qmd
       - text: "Føroyskt 🇫🇴"
         href: fo/participant.qmd
       - text: "Kalaallisut 🇬🇱"
         href: kl/participant.qmd
+      - text: "English 🇬🇧"
+        href: en/participant.qmd
     tools:
       - icon: github
         href: "https://github.com/dp-next/wp3-participants"
