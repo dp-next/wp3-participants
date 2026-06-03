@@ -1,9 +1,14 @@
 project:
+ # TODO: Change to correct project type if using extensions
   type: website
+  
 website:
+  # TODO: translate to Greenlandic
   title: "DP-Next"
   site-url: "https://dp-next.github.io/wp3-participants/"
   repo-url: "https://github.com/dp-next/wp3-participants"
+  # TODO: Set favicon if relevant.
+  # favicon: ""
   navbar:
     pinned: true
     left:
