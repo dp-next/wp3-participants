@@ -1,5 +1,5 @@
 ---
-title: "Hvad er DP-Next"
+title: "Hvad er DP-Next?"
 ---
 
 DP-Next står for *Bæredygtig forebyggelse af type 2-diabetes i det 21.
