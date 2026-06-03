@@ -1,7 +1,7 @@
 project:
   # TODO: Change to correct project type if using extensions
   type: website
-  
+
 website:
   # TODO: translate to Greenlandic
   title: "DP-Next"
