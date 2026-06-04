@@ -3,32 +3,64 @@ project:
   type: website
 
 website:
-  # TODO: Set the title of the website
-  title: ""
+  # TODO: translate to Greenlandic
+  title: "DP-Next"
   site-url: "https://dp-next.github.io/wp3-participants/"
   repo-url: "https://github.com/dp-next/wp3-participants"
-  # TODO: Set favicon if relevant.
-  # favicon: ""
   navbar:
-    # TODO: Add logo and logo-alt if relevant.
-    logo: ""
-    logo-alt: ""
     pinned: true
     left:
-      - text: "Welcome"
-        href: index.qmd
+      - text: "Dansk 🇩🇰"
+        href: da/participant.qmd
+      - text: "Føroyskt 🇫🇴"
+        href: fo/participant.qmd
+      - text: "Kalaallisut 🇬🇱"
+        href: kl/participant.qmd
+      - text: "English 🇬🇧"
+        href: en/participant.qmd
     tools:
       - icon: github
         href: "https://github.com/dp-next/wp3-participants"
-        aria-label: "GitHub icon: Source repository"
   sidebar:
-    contents:
-      - index.qmd
+    - title: "English 🇬🇧"
+      contents:
+        - text: "Information for participants"
+          href: en/participant.qmd
+        - text: "Questionnaire"
+          href: en/participant-questionnaire.qmd
+        - text: "Clinical examination"
+          href: en/participant-clinical.qmd
+    - title: "Dansk 🇩🇰"
+      contents:
+        - text: "Hvad er DP-Next?"
+          href: da/participant.qmd
+        - text: "Spørgeskema"
+          href: da/participant-questionnaire.qmd
+        - text: "Klinisk undersøgelse"
+          href: da/participant-clinical.qmd
+    - title: "Føroyskt 🇫🇴"
+      contents:
+        - text: "Frágreiðing til luttakarar"
+          href: fo/participant.qmd
+        - text: "Spurningarlisti"
+          href: fo/participant-questionnaire.qmd
+        - text: "Klinisk kanningin"
+          href: fo/participant-clinical.qmd
+    - title: "Kalaallisut 🇬🇱"
+      contents:
+        - text: "Nalunaarut peqataasumut"
+          href: kl/participant.qmd
+        - text: "Nalunaarusiaq"
+          href: kl/participant-questionnaire.qmd
+        - text: "Nakorsarineq"
+          href: kl/participant-clinical.qmd
 
-format:
-  # TODO: Use Quarto extension if available
-  html:
-    theme:
-      # TODO: Choose a different theme if desired
-      - litera
-      - custom-styles.scss
+format: html
+
+# bibliography: references.bib
+# csl: vancouver.csl
+
+editor:
+  markdown:
+    wrap: 72
+    canonical: true
