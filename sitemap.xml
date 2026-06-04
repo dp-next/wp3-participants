@@ -1,7 +1,59 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>https://dp-next.github.io/wp3-participants/fo/participant.html</loc>
+    <lastmod>2026-06-04T07:14:24.241Z</lastmod>
+  </url>
+  <url>
+    <loc>https://dp-next.github.io/wp3-participants/fo/participant-questionnaire.html</loc>
+    <lastmod>2026-06-04T07:14:24.241Z</lastmod>
+  </url>
+  <url>
+    <loc>https://dp-next.github.io/wp3-participants/en/participant-clinical.html</loc>
+    <lastmod>2026-06-04T07:14:24.240Z</lastmod>
+  </url>
+  <url>
+    <loc>https://dp-next.github.io/wp3-participants/index.html</loc>
+    <lastmod>2026-06-04T07:14:24.243Z</lastmod>
+  </url>
+  <url>
+    <loc>https://dp-next.github.io/wp3-participants/kl/participant-clinical.html</loc>
+    <lastmod>2026-06-04T07:14:24.243Z</lastmod>
+  </url>
+  <url>
+    <loc>https://dp-next.github.io/wp3-participants/da/participant.html</loc>
+    <lastmod>2026-06-04T07:14:24.240Z</lastmod>
+  </url>
+  <url>
+    <loc>https://dp-next.github.io/wp3-participants/da/participant-questionnaire.html</loc>
+    <lastmod>2026-06-04T07:14:24.240Z</lastmod>
+  </url>
+  <url>
     <loc>https://dp-next.github.io/wp3-participants/LICENSE.html</loc>
-    <lastmod>2026-06-02T08:35:37.760Z</lastmod>
+    <lastmod>2026-06-04T07:14:24.240Z</lastmod>
+  </url>
+  <url>
+    <loc>https://dp-next.github.io/wp3-participants/da/participant-clinical.html</loc>
+    <lastmod>2026-06-04T07:14:24.240Z</lastmod>
+  </url>
+  <url>
+    <loc>https://dp-next.github.io/wp3-participants/kl/participant-questionnaire.html</loc>
+    <lastmod>2026-06-04T07:14:24.243Z</lastmod>
+  </url>
+  <url>
+    <loc>https://dp-next.github.io/wp3-participants/kl/participant.html</loc>
+    <lastmod>2026-06-04T07:14:24.243Z</lastmod>
+  </url>
+  <url>
+    <loc>https://dp-next.github.io/wp3-participants/en/participant-questionnaire.html</loc>
+    <lastmod>2026-06-04T07:14:24.241Z</lastmod>
+  </url>
+  <url>
+    <loc>https://dp-next.github.io/wp3-participants/en/participant.html</loc>
+    <lastmod>2026-06-04T07:14:24.241Z</lastmod>
+  </url>
+  <url>
+    <loc>https://dp-next.github.io/wp3-participants/fo/participant-clinical.html</loc>
+    <lastmod>2026-06-04T07:14:24.241Z</lastmod>
   </url>
 </urlset>
