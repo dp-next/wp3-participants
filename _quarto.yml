@@ -7,8 +7,6 @@ website:
   title: "DP-Next"
   site-url: "https://dp-next.github.io/wp3-participants/"
   repo-url: "https://github.com/dp-next/wp3-participants"
-  # TODO: Set favicon if relevant.
-  # favicon: ""
   navbar:
     pinned: true
     left:
@@ -56,11 +54,11 @@ website:
           href: kl/participant-questionnaire.qmd
         - text: "Nakorsarineq"
           href: kl/participant-clinical.qmd
-format:
-  html
 
-#bibliography: references.bib
-#csl: vancouver.csl
+format: html
+
+# bibliography: references.bib
+# csl: vancouver.csl
 
 editor:
   markdown:

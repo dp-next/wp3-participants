@@ -1,3 +1,8 @@
+# Ignore R files
+.Rhistory
+.RData
+.Rproj.user
+
 # Development files and folders
 _ignore
 bin/
