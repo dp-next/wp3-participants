@@ -42,7 +42,7 @@ Your questionnaire responses will continuously be linked with information from D
 - Your information is treated confidentially and in accordance with applicable data protection regulations.
 - Sensitive personal information is stored securely and separately from research data.
 - When we publish results, this is done in fully anonymised form, so that individuals cannot be identified.
-- See more about the processing of your personal data in the enclosed information sheet.
+- See more about how we handle your personal data in the information sheet.
 
 You can read more about your rights as a participant in health research [here](https://www.videnskabsetik.dk/deltagelse-i-kliniske-forsoeg/dine-rettigheder-som-forsoegsperson).
 
