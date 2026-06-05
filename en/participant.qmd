@@ -10,13 +10,13 @@ The purpose of DP-Next is to improve early identification and prevention of type
 
 DP-Next seeks to improve understanding of these differences and develop more effective and sustainable prevention strategies.
 
-The project combines large-scale health data, clinical research, and development of new prevention approaches through:
+The project combines different types of information to better understand diabetes risk:
 
-- Questionnaires about health, lifestyle, and wellbeing
 - Information from national health registers
-- Clinical examinations and biological samples
+- A large-scale survey of approximately 30,000 participants
+- Detailed health profiling and clinical measurements from approximately 1,000 participants
 
-Approximately 30,000 people will be invited to participate in the questionnaire study, and some participants may later be invited to additional clinical examinations.
+The purpose, content, and structure of the survey and the clinical examinations are described in more detail below.
 
 Ultimately, DP-Next aims to support more personalised and effective prevention of type 2 diabetes.
 
@@ -31,9 +31,10 @@ The questionnaire collects information about factors that may influence the risk
 The questionnaire covers a broad range of topics, including:
 
 - General health and medical history
-- Lifestyle, including diet, physical activity, alcohol use, and smoking
-- Mental wellbeing, stress, sleep, and quality of life
-- Social, educational, and work-related factors
+- Diet, physical activity, alcohol use, and smoking
+- Sleep, stress, mental wellbeing, and quality of life
+- Social factors, such as loneliness and support from others
+- Education, work, and daily life
 - Family history of disease
 
 The questionnaire is completed online using a secure system and can be completed at your own pace. Most participants spend approximately 30 minutes completing the questionnaire.
@@ -41,6 +42,8 @@ The questionnaire is completed online using a secure system and can be completed
 Questionnaire responses may be linked with information from national health registers, such as diagnoses and laboratory results. This helps researchers better understand why some people are at higher risk of developing type 2 diabetes than others.
 
 All information is handled confidentially and in accordance with data protection regulations.
+
+You can read more about the questionnaire **[here](/en/participant-questionnaire.qmd)**
 
 ---
 
@@ -60,6 +63,8 @@ The examination takes approximately 4 hours. Depending on the study site, examin
 These examinations help researchers better understand why some people develop type 2 diabetes while others do not.
 
 Participation in the clinical examination is voluntary and requires separate consent.
+
+You can read more about the clinical examination **[here](/en/participant-clinical.qmd)**
 
 ---
 
@@ -87,8 +92,8 @@ All information is handled confidentially and stored securely. Research results 
 
 ---
 
-## Contact and further information
+## Read more
 
-If you have questions or would like more information, please contact the project team.
+You can read more about the project on the [DP-Next website](https://dp-next.github.io/).
 
-You can also read more about the project on the DP-Next website.
+You can also listen to a podcast about the project (in danish) [Forskere vil forsinke udvikling af type 2-diabetes: (2026) Host: Diabetesforskerne](https://open.spotify.com/episode/3WmBVyNdqTDAMZ4KLPJDZF?si=_mKZYWQFQkKbLufQy-ELSg)
