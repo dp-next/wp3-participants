@@ -2,21 +2,55 @@
 title: "Questionnaire"
 ---
 
+The project is conducted by the Steno Diabetes Centres in Denmark.
+
+Participation is voluntary. Your decision will have no impact on your current or future treatment.
 
 ## What does the questionnaire involve?
 
-The questionnaire collects information about factors that may influence the risk of developing type 2 diabetes.
+In the questionnaire, we ask you to answer a number of questions about factors that may be relevant to the risk of developing type 2 diabetes.
 
 The questionnaire includes questions about:
 
-- Your general health and medical history
-- Lifestyle, including diet, physical activity, and sleep
-- Mental wellbeing, stress, and quality of life
-- Social and work-related factors
-- Family history of disease
+- Background information (e.g. age, education, work, finances, and family circumstances)
+- Your physical and mental health, as well as diseases in your family
+- Alcohol habits, smoking, and contact with other people
+- Mood, stress, and psychological wellbeing
+- Physical activity and exercise in everyday life
+- How you understand and use health information
+- Personality and your relationship with food, appetite, and diet
+- Diet, eating habits, and sleep patterns
 
-The questionnaire is completed online using a secure system, and you can complete it at your own pace.
+We will send one reminder after 7 days if you have not responded. If you do not wish to participate, you can open the link and indicate that you do not want to take part – we will then send no further reminders.
 
-Your questionnaire responses may be linked with information from national health registers, such as diagnoses and laboratory results. This helps researchers better understand diabetes risk and identify different risk profiles.
+## What is the purpose of the questionnaire?
 
-All information is handled confidentially and in accordance with data protection regulations.
+Type 2 diabetes is most commonly diagnosed using a blood test that measures long-term blood sugar levels (HbA1c). If your long-term blood sugar level exceeds a certain threshold, you receive a diagnosis of type 2 diabetes. However, people without diabetes may still have an increased risk of developing the disease, as the risk does not depend solely on blood sugar levels, but also on a range of health-related, lifestyle, and social factors. These are precisely the factors we wish to learn more about.
+
+By completing this questionnaire, you help us better understand which factors are associated with an increased risk of type 2 diabetes, and why some people are at greater risk than others. This knowledge is essential for us to be able to prevent the disease more effectively in the future.
+
+## Who is being invited?
+
+We are inviting approximately 60,000 people between the ages of 40 and 50 to complete the questionnaire. Among those who respond, we will later invite approximately 1,000 people to a more detailed examination at a test site. Please note that only a small number of participants will be selected for this. At the end of the questionnaire, we therefore ask whether we may contact you with an offer to participate in the further examinations. Participation is always voluntary, and even if you have said yes to the questionnaire and to being contacted, you can always decline the further examinations.
+
+## Data protection and confidentiality
+
+The questionnaire is completed online in a secure system, and you can complete it at your own pace.
+
+Your questionnaire responses will continuously be linked with information from Danish health registers (e.g. diagnoses, medication, and laboratory results). We do this in order to more precisely examine the relationship between lifestyle, health, and the risk of type 2 diabetes.
+
+- Your information is treated confidentially and in accordance with applicable data protection regulations.
+- Sensitive personal information is stored securely and separately from research data.
+- When we publish results, this is done in fully anonymised form, so that individuals cannot be identified.
+- See more about the processing of your personal data in the enclosed information sheet.
+
+You can read more about your rights as a participant in health research [here](https://www.videnskabsetik.dk/deltagelse-i-kliniske-forsoeg/dine-rettigheder-som-forsoegsperson).
+
+## Time commitment and benefit
+
+Completing the questionnaire may feel somewhat time-consuming (participants have on average spent approximately 30 minutes answering all questions).
+
+Your participation in the study contributes to:
+
+- Providing better knowledge about who is at greatest risk of type 2 diabetes
+- Developing and targeting future offers for examination and prevention of type 2 diabetes
